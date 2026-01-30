@@ -3,8 +3,6 @@
 # Task Manager (Full-Stack)
 
 A simple **Task Manager** application with a **React frontend** and a **Node.js + Express backend**.  
-Tasks are stored **in memory**, so all data is reset when the server restarts.
-
 
 ## Main Features
 - Create tasks with:
