@@ -19,7 +19,7 @@ A simple **Task Manager** application with a **React frontend** and a **Node.js 
 
 
 
-When a task is created in **automatic mode**, its initial status is set to **`active`** by default.
+When a task is created , its initial status is set to **`active`** by default.
 
 ## Running the Backend
 cd backend
