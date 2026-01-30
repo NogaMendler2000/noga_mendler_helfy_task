@@ -1,0 +1,22 @@
+.carousel {
+  overflow: hidden;
+}
+
+.track {
+  display: flex;
+  width: max-content;
+  animation: scroll 25s linear infinite;
+}
+
+.carousel.paused .track {
+  animation-play-state: paused;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
