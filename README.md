@@ -23,7 +23,9 @@ When a task is created , its initial status is set to **`active`** by default.
 
 ## Running the Backend
   cd backend
+  
   npm install
+  
   npm start
 
 The backend server will run on:
@@ -31,7 +33,9 @@ http://localhost:4000
 
 ## Running the Frontend
   cd frontend
+  
   npm install
+  
   npm start
 
 The frontend application will open at:
