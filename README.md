@@ -45,6 +45,9 @@ http://localhost:3000
 
 ## Technologies Used
 Frontend: React, JavaScript, CSS
+
 Backend: Node.js, Express
+
 State Management: React Hooks
+
 Communication: REST API (JSON)
