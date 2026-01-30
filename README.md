@@ -28,6 +28,7 @@ When a task is created , its initial status is set to **`active`** by default.
   
   npm start
 
+
 The backend server will run on:
 http://localhost:4000
 
@@ -37,6 +38,7 @@ http://localhost:4000
   npm install
   
   npm start
+
 
 The frontend application will open at:
 http://localhost:3000
